@@ -79,7 +79,7 @@ removes all associated encrypted data from our database.
 
 ## Contact
 
-Questions about this policy: **your-email@example.com**
+Questions about this policy: **edwardchhun3@gmail.com**
 
 ## Changes
 
